@@ -22,8 +22,16 @@ background-color: rgb(46, 14, 158);
 
 }
 
+h1 {
+  background-color: rgba(67, 211, 67, 0.5);
+}
+
 h2 {
-  background-color: green;
+  background-color: rgba(220, 226, 220, 0.603);
+}
+
+h3 {
+  background-color: rgba(147, 204, 147, 0.219);
 }
 
 .rrss {
